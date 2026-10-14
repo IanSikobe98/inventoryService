@@ -38,7 +38,7 @@ public class ShoeBatch {
     @Column(name = "colour", nullable = false, length = 50)
     private String colour;
 
-    @Column(name = "picture_url", length = 500)
+    @Column(name = "picture_url")
     private String pictureUrl;
 
     @Column(name = "quantity_received", nullable = false)
