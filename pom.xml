@@ -118,12 +118,6 @@
 <!--			<artifactId>httpclient5</artifactId>-->
 <!--			<version>5.2</version> &lt;!&ndash; Or the latest version &ndash;&gt;-->
 <!--		</dependency>-->
-		<dependency>
-			<groupId>org.apache.httpcomponents.core5</groupId>
-			<artifactId>httpcore5</artifactId>
-			<version>5.2</version> <!-- Or the latest version -->
-		</dependency>
-
 
 		<dependency>
 			<groupId>org.hibernate.orm</groupId>
